@@ -8,5 +8,3 @@ To run dev server, run the following commands in the terminal:
 npm i
 npm run dev
 ```
-```
-```
